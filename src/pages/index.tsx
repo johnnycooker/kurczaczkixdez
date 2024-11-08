@@ -9,6 +9,9 @@
         kurczaki
       </p>
       </div>
+<div className="bg-[#a62626] p-[20px] h-[118px] flex flex-column">
+        
+      </div>
           </>
         );
       };
